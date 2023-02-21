@@ -1,10 +1,10 @@
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul>
     <summary><h1 align="center"> Hi,  I'm < Alex/ > 👋 </h1></summary>
   </ul>
 </div>
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?	font=Fira+Code&pause=1000&width=435&lines=Self-Taught+Full+Stack+Developer;UWaterloo+Computer+Science+Student;Hackathon+Enthusiast+And+Traveller" alt="Typing SVG" /></a>
+	<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&width=435&lines=Self-Taught+Full+Stack+Developer;UWaterloo+Computer+Science+Student;Hackathon+Enthusiast+And+Traveller" alt="Typing SVG" />
 </p>
 
 - 👋 Hi, I’m Alex, an aspiring social entrepeneur interested in Data Science, Web Applications and Design
