@@ -43,12 +43,6 @@
   <a href="https://discord.gg/AWfmJ6hE4w" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>   
-  
-<h2> Github Stats </h2>
-  <p align="center">
-    <img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pane2004&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pane2004&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
   <br/>
   
 ----------------------------------------------------------------------
