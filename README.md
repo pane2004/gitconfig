@@ -10,7 +10,7 @@
 - 👋 Hi, I’m Alex, an aspiring social entrepreneur interested in Data Science, Web Applications and Design
 - 📚 I'm a computer science student at the University of Waterloo
 - 💬 Talk to me about internship opportunities in data science or software engineering
-- 🌱 I’m currently working on an open source Notion widget library
+- 🌱 I’m currently working on my own GPT model
 
 <h2> Technologies/Frameworks</h2>
 <p>
