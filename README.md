@@ -7,10 +7,10 @@
 	<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&width=435&lines=Self-Taught+Full+Stack+Developer;UWaterloo+Computer+Science+Student;Hackathon+Enthusiast+And+Traveller" alt="Typing SVG" />
 </p>
 
-- 👋 Hi, I’m Alex, an aspiring social entrepreneur interested in Web Applications, Finance, and Web3 
+- 👋 Hi, I’m Alex, an aspiring social entrepreneur exploring Human-Computer Interaction, Web Accessibility, and Web3 
 - 📚 I'm a computer science student at the University of Waterloo
 - 💬 Talk to me about internship opportunities in software engineering
-- 🌱 I’m currently working on my own GPT model
+- 🌱 I’m currently working on a client-side semantic search library
 
 <h2> Technologies/Frameworks</h2>
 <p>
